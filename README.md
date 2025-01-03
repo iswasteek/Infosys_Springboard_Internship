@@ -230,3 +230,4 @@ Authorization: Bearer &lt;JWT_TOKEN&gt;
 3. git checkout -b feature/&lt;feature-name&gt;
 4. Commit and push your changes.
 5. Submit a pull request for review.
+   __________________________________________________________________________________________________________________________________________________________________________
